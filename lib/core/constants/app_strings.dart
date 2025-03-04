@@ -1,5 +1,5 @@
 class AppStrings {
-  static const String appName = 'KPSS Question Generator';
+  static const String appName = 'Flutter Project Template';
   static const String user = 'User';
   static const String error = 'Error';
   static const String loading = 'Loading...';
