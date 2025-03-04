@@ -1,4 +1,4 @@
-# flutter_project_template
+# Flutter Project Template
 
 A Flutter project template with a clean architecture. This template is designed to help you kickstart your Flutter application development with a well-structured and maintainable codebase.
 
