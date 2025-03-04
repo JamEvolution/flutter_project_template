@@ -24,7 +24,12 @@ A Flutter project template with a clean architecture. This template is designed 
     flutter pub get
     ```
 
-3. **Run the application**:
+3. **Generate environment files**:
+    ```sh
+    flutter pub run build_runner build
+    ```
+
+4. **Run the application**:
     ```sh
     flutter run
     ```
